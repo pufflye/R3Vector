@@ -1,4 +1,5 @@
 # R3Vector //задача на вектор
+    
 public class Main
 {
     public static void main(String[] args)
